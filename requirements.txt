@@ -1,0 +1,23 @@
+# IOT Door Lock Controller
+# Install: pip install -r requirements.txt
+ 
+# Computer vision & ML
+opencv-python
+numpy
+scipy
+ultralytics
+onnxruntime
+ 
+# Biometric sensors
+pyfingerprint
+ 
+# MQTT
+paho-mqtt
+ 
+# LCD display
+RPLCD
+ 
+# GPIO (Raspberry Pi)
+lgpio
+RPi.GPIO
+

@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "user",
+      "role": "admin",
+      "registered": "2026-05-18T06:59:09",
+      "methods": {
+        "face": {
+          "directory": "~/Desktop/IOT/face_database/RASHIK",
+          "images": 25
+        },
+        "fingerprint": {
+          "template_id": 0
+        },
+        "rfid": {
+          "uid": 1652823644
+        }
+      }
+    },
+    {
+      "id": "2",
+      "name": ".",
+      "role": "admin",
+      "registered": "2026-05-18T10:00:15",
+      "methods": {
+        "face": {
+          "directory": "~/Desktop/IOT/face_database",
+          "images": 25
+        }
+      }
+    }
+  ]
+}
