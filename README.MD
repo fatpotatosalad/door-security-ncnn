@@ -1,3 +1,4 @@
+For the report check: face-recognition-door-lock-system.pdf
 
 # IoT Edge Door Lock Controller
 
@@ -41,7 +42,7 @@ The system separates localization and feature analysis tasks onto dedicated edge
 Weights: w600k_mbf.onnx
 Download link: https://huggingface.co/WePrompt/buffalo_sc/resolve/229b65be0dc7f8f33b55478772e8d3289580c356/w600k_mbf.onnx?download=true
 
-Target Destination: models/w600k_mbf.onnx
+   Target Destination: models/w600k_mbf.onnx
 
 2. Face Detection Engine (YOLO12)Model: 
 Target Framework: Ultralytics YOLO12s
