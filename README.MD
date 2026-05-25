@@ -77,7 +77,9 @@ Note: This generates an export directory named yolo12s_ncnn_model/ containing mo
 #### Installation & Environment Setup
 
 1. Clone and Navigate into the Project Repository:
-```git clone https://github.com/fatpotatosalad/door-security-ncnn```
+```
+git clone https://github.com/fatpotatosalad/door-security-ncnn
+```
 
 2. Initialize Environment Dependencies:E
 Ensure your Python virtual environment points correctly to your target distribution and install core libraries:
